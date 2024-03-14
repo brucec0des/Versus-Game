@@ -105,19 +105,25 @@ struct ContentView: View {
     }
     
     func avengerWins() {
-        //Add point to Avengers score
-        avengersScore += 1
-        //Switch to new opponent
-        let x = Int.random(in: 1...15)
-        xmenCard = "xmenCard" + String(x)
+        //Only allow this function if game has been started
+        if isActive {
+            //Add point to Avengers score
+            avengersScore += 1
+            //Switch to new opponent
+            let x = Int.random(in: 1...15)
+            xmenCard = "xmenCard" + String(x)
+        }
     }
     
     func xmenWins() {
-        //Add point to X-Men's score
-        xmenScore += 1
-        //Switch to new opponent
-        let a = Int.random(in: 1...15)
-        avengersCard = "avengersCard" + String(a)
+        //Only allow this function if game has been started
+        if isActive {
+            //Add point to X-Men's score
+            xmenScore += 1
+            //Switch to new opponent
+            let a = Int.random(in: 1...15)
+            avengersCard = "avengersCard" + String(a)
+        }
     }
 }
 
