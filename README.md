@@ -10,14 +10,9 @@ This project was developed to reinforce and further sharpen my skills coding wit
 
 ## Future Enhancements
 
-- Provide guided assistance in reviewing accounts
-- Calculate current metrics and provide actionable daily gameplan to help associate hit goals.
-- Provide custom timer feature to help associates stay on track.
-- Provide frequently calculated dates so time is spent on what matters most.
-
-![](https://github.com/brucec0des/DPH-Helper/blob/main/ASSETS/IMG_2367.PNG)
-
-*** *For security reasons, FlowChart feature containing proprietary fraud processes has been removed from the version uploaded to GitHub.***
+- Add more characters to both teams
+- Add logic to incorporate elimination to determine who is most powerful from each team
+- Add logic so that whichever team hits X number of points, wins the round
 
 ## Technology Used 
 
