@@ -26,26 +26,9 @@ This project was developed to reinforce and further sharpen my skills coding wit
 - Photoshop
 
 ## Screenshots
-### Onboarding Screens - what a user sees the first time they load the app.
-![](https://github.com/brucec0des/DPH-Helper/blob/main/ASSETS/IMG_2364.PNG)
+![](https://github.com/brucec0des/Versus-Game/blob/main/ASSETS/versus1.jpg)
 
-![](https://github.com/brucec0des/DPH-Helper/blob/main/ASSETS/IMG_2368.PNG)
-
+![](https://github.com/brucec0des/Versus-Game/blob/main/ASSETS/versus2.jpg)
 ---
-### Dashboard - what a user sees whenever they open the app if onboarding was completed.
-![](https://github.com/brucec0des/DPH-Helper/blob/main/ASSETS/IMG_2371.PNG)
-
----
-### Key Features: SFD FlowChart, DPH Calculator, SmartTimer
-![](https://github.com/brucec0des/DPH-Helper/blob/main/ASSETS/IMG_2373.PNG)
-
----
-### DPH Calculator - calculates current metrics and provides daily action plan to hit goal.
-![](https://github.com/brucec0des/DPH-Helper/blob/main/ASSETS/IMG_2391.PNG)
-
----
-### SmartTimer - tracks user's time while providing visual feedback to keep associate on track.
-![](https://github.com/brucec0des/DPH-Helper/blob/main/ASSETS/IMG_2394.PNG)
-
 ## Author - Bruce Harper
 As a lover of all things Marvel, this was a passion project created primarily for entertainment purposes. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
