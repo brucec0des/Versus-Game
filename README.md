@@ -6,9 +6,10 @@
 This project was developed to reinforce and further sharpen my skills coding with Swift & SwiftUI. It was also created to helped solve a debate between my friends. As huge Marvel Comics fans, we are always discussing who would win in a showdown between The Avengers and The X-Men. This app helps us better visualize and conclude who would win in this hypothetical scenario.
 
 ## How It Works
-1. Click start to be presented with two characters (an Avenger will be on the left and an X-Men will be on the right).
+1. Click the "START" button to be presented with two characters (an Avenger will be on the left and an X-Men will be on the right).
 2. It is up to you to determine who will win in this scenario. Once you've made your decision, simply tap on the winner. At this point, the loser will be replaced with a new opponent.
 3. Repeat until satisfied.
+4. To reset the game, simply click the "RESET" button.
 
 ## Future Enhancements
 
